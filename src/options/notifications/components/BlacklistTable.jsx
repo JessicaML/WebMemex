@@ -9,7 +9,7 @@ const BlacklistTable = ({ children }) => (
             <table className={styles.table}>
                 <thead>
                     <tr>
-                        <th className={styles.domainCell}>Domain / Expression</th>
+                        <th className={styles.domainCell}>HELLLLLOOOOOOOO</th>
                     </tr>
                 </thead>
 

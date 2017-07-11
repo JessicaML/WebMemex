@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Notifications from '../../blacklist'
+import Notifications from '../../notifications'
 import { routeTitle, sectionTitle } from '../../base.css'
 import styles from './style.css'
 
